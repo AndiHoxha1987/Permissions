@@ -12,5 +12,6 @@ I've implemented three different ways how to make a request for permission:
 3- For third implementation I used PermissionsDispatcher library.
 
 
-For further information about permitions check link below:
+For further information about permissions check the link below:
+
 https://developer.android.com/guide/topics/permissions/overview
