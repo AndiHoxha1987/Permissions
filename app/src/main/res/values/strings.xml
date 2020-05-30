@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Permissions</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="simple_permission_example">Simple Permission Example</string>
+    <string name="easy_permission_example">easy permission example</string>
+    <string name="dispatcher_permission_example">dispatcher permission example</string>
+    <string name="call_permission_example">Call Permission Example</string>
+    <string name="call">Call</string>
+</resources>
